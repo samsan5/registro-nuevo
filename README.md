@@ -3,3 +3,5 @@
 - Estado del registro: En proceso.
 
 ```npm install react```
+
+Registro Nuevo 2
